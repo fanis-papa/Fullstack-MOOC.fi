@@ -1,1 +1,2 @@
-This section inclutes the 0.4, 0.5, 0.6 exercises from the fullstack course on the [mooc.fi ](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#loading-a-page-containing-java-script-review)
+This section includes the 0.4, 0.5 and 0.6 exercises from the fullstack course on the [mooc.fi ](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#loading-a-page-containing-java-script-review) 
+The diagrams were made with https://mermaid.live/ 
