@@ -1,4 +1,4 @@
-Exercise 0.5: 
+exercise 0.5: 
 
 Single page app diagram
 
